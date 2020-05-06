@@ -1,0 +1,14 @@
+{
+  "name": "compress",
+  "version": "1.0.0",
+  "description": "压缩图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "88888888"
+  ],
+  "author": "hzj",
+  "license": "ISC"
+}

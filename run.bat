@@ -1,0 +1,2 @@
+node compress.js
+pause
